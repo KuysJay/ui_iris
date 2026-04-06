@@ -4,7 +4,7 @@ import gdown
 from sklearn.tree import DecisionTreeClassifier
 
 # --- DOWNLOAD DATA ---
-file_id = "1FBCKZI4KKtlvZaY8XgvAcvLHo5We0ORF"
+file_id = "d/10VgI8iiHH7LM7TeKly0J7EKuQxGm5cFZ"
 url = f"https://drive.google.com/uc?export=download&id={file_id}"
 output = "Iris.csv"
 
